@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio created using HTML5, CSS3 and JavaScript.
+Portfolio has been created using HTML5, CSS3 and JavaScript.
 ## Description
 Welcome to my first Front-End Developer's Portfolio! It allows you to have a quick overlook of my works and get in touch if interested.
 ## Contributing
