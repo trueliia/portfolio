@@ -2,7 +2,7 @@ body{
     background-color: #252525;
 }
 #particles-js {
-    position: absolute;
+
     width: 100%;
     height: 100%;
     z-index:-10;
@@ -136,7 +136,6 @@ textarea{
     justify-content: space-around;
     background-color: white;
     padding:30px;
-    font-family: 'Righteous', cursive;
     font-size: 24px;
 }
 .features {
@@ -169,7 +168,7 @@ a {
 .exampleOne{
     height: 300px;
     width: 400px;
-    background-image: url('christmas.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/christmas.png?v=1675753703948');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
@@ -180,7 +179,7 @@ a {
 .exampleTwo{
     height: 300px;
     width: 400px;
-    background-image: url('weather.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/weather.png?v=1675753848717');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
@@ -191,7 +190,7 @@ a {
 .exampleThree{
     height: 300px;
     width: 400px;
-    background-image: url('divination.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/divination.png?v=1675753682658');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
@@ -202,7 +201,7 @@ a {
 .exampleFour{
     height: 300px;
     width: 400px;
-    background-image: url('travelcanada.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/travelcanada.png?v=1675753843917');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
@@ -213,7 +212,7 @@ a {
 .exampleFive{
     height: 300px;
     width: 400px;
-    background-image: url('coffee.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/coffee.png?v=1675753707953');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
@@ -224,7 +223,7 @@ a {
 .exampleSix{
     height: 300px;
     width: 400px;
-    background-image: url('todolist.png');
+    background-image: url('https://cdn.glitch.global/1becbcc3-067e-4950-84c2-92db65db7328/todolist.png?v=1675753836791');
     background-size: cover;
     background-repeat: no-repeat;
     margin: 4%;
